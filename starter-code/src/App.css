@@ -30,3 +30,14 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  display: flex;
+  flex-direction: row;
+}
+.child{
+  display: flex;
+  flex-direction: column;
+}
+.detail{
+  padding-right: 150px;
+}
